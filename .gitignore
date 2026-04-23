@@ -7,7 +7,7 @@
 **/__pycache__/
 
 # test media
-#**/*.mp3
+**/*.mp3
 **/*.wav
 
 # temporary and deprecated files/dirs
