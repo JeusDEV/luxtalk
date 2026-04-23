@@ -8,7 +8,7 @@ from rich.theme import Theme
 
 
 def logging_setup(loggingLevel: int = logging.INFO) -> None:
-    """Setup the configuration."""
+    """Setup the configuration for logging."""
     logging.basicConfig(
         level=loggingLevel,
         format="%(message)s",

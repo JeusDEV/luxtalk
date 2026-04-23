@@ -9,8 +9,8 @@ from torch import Tensor
 from conf import logging_setup
 
 FLOAT_TOLERANCE = 1e-6
-STT_MODEL_ID = "en"  # "en"
-TARGET_PATH = "./media/input/processed.mp3"
+STT_MODEL_ID = "ru"  # "en"
+TARGET_PATH = "./media/input/someonecat.mp3"
 
 logging_setup()
 logger = logging.getLogger(__name__)
