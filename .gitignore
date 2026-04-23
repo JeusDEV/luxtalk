@@ -1,0 +1,22 @@
+# venvs
+**/venv/
+**/.venv/
+**/myenv/
+
+# py garbage
+**/__pycache__/
+
+# test media
+**/*.mp3
+**/*.wav
+
+# temporary and deprecated files/dirs
+**/TEMP/
+**/.TEMP/
+**/temp/
+**/.temp/
+**/DEPR*/
+**/depr*/
+**/DEPR*
+**/depr*
+
